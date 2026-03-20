@@ -25,5 +25,5 @@ To transform messy datasets into clear, meaningful stories that support smarter 
 
 ## 🤝 Let's Connect!
 
-- 💼 LinkedIn: https://www.linkedin.com/in/your-link/
-- 💻 Portfolio: https://your-portfolio-link.com
+- 💼 LinkedIn: [https://www.linkedin.com/in/your-link/](https://www.linkedin.com/in/rakesh-chavan-1b3ab9136/)
+- 💻 Portfolio: [https://your-portfolio-link.com](https://sites.google.com/view/rakeshchavan09/home)
