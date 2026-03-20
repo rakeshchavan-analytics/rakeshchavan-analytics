@@ -1,16 +1,37 @@
-## Hi there 👋
+# 👋 Hey there, welcome to my GitHub!
 
-<!--
-**rakeshchavan-analytics/rakeshchavan-analytics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Rakesh — a Data Analyst with experience in Power BI, SQL, and data modeling.
 
-Here are some ideas to get you started:
+I'm passionate about building real-world projects and turning raw data into meaningful insights.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Here's what you'll find here:
+
+🌱 Projects I'm building  
+📊 Interactive Power BI dashboards  
+🧹 Data cleaning & SQL practice  
+🐍 Python-based analysis  
+📈 My progress in data analytics  
+
+---
+
+## 🔧 Skills
+
+- Power BI  
+- SQL  
+- Excel  
+- Python  
+
+---
+
+## 🎯 My Goal
+
+To transform messy datasets into clear, meaningful stories that support smarter business decisions.
+
+---
+
+## 🤝 Let's Connect!
+
+- 💼 LinkedIn: https://www.linkedin.com/in/your-link/
+- 💻 Portfolio: https://your-portfolio-link.com
