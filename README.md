@@ -4,8 +4,6 @@ I'm Rakesh — a Data Analyst with experience in Power BI, SQL, and data modelin
 
 I'm passionate about building real-world projects and turning raw data into meaningful insights.
 
----
-
 ## 🚀 Here's what you'll find here:
 
 🌱 Projects I'm building  
@@ -14,8 +12,6 @@ I'm passionate about building real-world projects and turning raw data into mean
 🐍 Python-based analysis  
 📈 My progress in data analytics  
 
----
-
 ## 🔧 Skills
 
 - Power BI  
@@ -23,13 +19,9 @@ I'm passionate about building real-world projects and turning raw data into mean
 - Excel  
 - Python  
 
----
-
 ## 🎯 My Goal
 
 To transform messy datasets into clear, meaningful stories that support smarter business decisions.
-
----
 
 ## 🤝 Let's Connect!
 
