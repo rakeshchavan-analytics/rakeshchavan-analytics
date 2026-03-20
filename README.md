@@ -14,7 +14,8 @@ I'm passionate about building real-world projects and turning raw data into mean
 
 ## 🔧 Skills
 
-- Power BI  
+- Power BI
+- DAX
 - SQL  
 - Excel  
 - Python  
@@ -22,6 +23,8 @@ I'm passionate about building real-world projects and turning raw data into mean
 ## 🎯 My Goal
 
 To transform messy datasets into clear, meaningful stories that support smarter business decisions.
+
+If you're here to explore, collaborate, or just follow my journey — I'm really glad you're here
 
 ## 🤝 Let's Connect!
 
