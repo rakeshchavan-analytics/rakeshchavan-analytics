@@ -1,6 +1,6 @@
 # 👋 Hey there, welcome to my GitHub!
 
-I'm Rakesh — a Data Analyst with experience in Power BI, SQL, and data modeling.
+I'm Rakesh — a Data Analyst with experience in Power BI, SQL, data modeling and Python.
 
 I'm passionate about building real-world projects and turning raw data into meaningful insights.
 
