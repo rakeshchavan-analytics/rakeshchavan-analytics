@@ -6,11 +6,13 @@ I'm passionate about building real-world projects and turning raw data into mean
 
 ## 🚀 Here's what you'll find here:
 
-🌱 Projects I'm building  
-📊 Interactive Power BI dashboards  
-🧹 Data cleaning & SQL practice  
-🐍 Python-based analysis  
-📈 My progress in data analytics  
+📊 Power BI & Microsoft Fabric Projects
+🧹 SQL (EDA, Data Cleaning & Advanced Queries)
+🐍 Python for Data Analysis
+🏗️ Azure Data Factory (ADF)
+🏛️ Data Warehousing & Lakehouse
+📈 DAX, Power Query & Data Modeling
+🌱 My Data Analytics Journey
 
 ## 🔧 Skills
 
