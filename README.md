@@ -6,13 +6,17 @@ I'm passionate about building real-world projects and turning raw data into mean
 
 ## 🚀 Here's what you'll find here:
 
-📊 Power BI & Microsoft Fabric Projects
-🧹 SQL (EDA, Data Cleaning & Advanced Queries)
-🐍 Python for Data Analysis
-🏗️ Azure Data Factory (ADF)
-🏛️ Data Warehousing & Lakehouse
-📈 DAX, Power Query & Data Modeling
-🌱 My Data Analytics Journey
+- 📊 **Power BI & Microsoft Fabric Projects**
+- 🧹 **SQL** (EDA, Data Cleaning & Advanced SQL)
+- 🐍 **Python** for Data Analysis & Automation
+- 🏗️ **Azure Data Factory (ADF)** & ETL Pipelines
+- 🏛️ **Data Warehousing & Lakehouse**
+- 📈 **DAX, Power Query & Data Modeling**
+- ⚡ **Performance Optimization** (SQL & Power BI)
+- 📋 **Semantic Models & TMDL**
+- ☁️ **Direct Lake & OneLake**
+- 📚 **End-to-End Analytics Projects**
+- 🌱 **My Continuous Learning Journey**
 
 ## 🔧 Skills
 
