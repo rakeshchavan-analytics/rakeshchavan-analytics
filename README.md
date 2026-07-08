@@ -1,6 +1,6 @@
 # 👋 Hey there, welcome to my GitHub!
 
-I'm Rakesh — a Senior Data Analyst with 5+ years of experience in Power BI, Microsoft Fabric, SQL, Python, Azure Data Factory, and data modeling. I enjoy building end-to-end analytics solutions that transform raw data into actionable business insights through interactive dashboards, ETL pipelines, and scalable data models.
+I'm Rakesh — a Senior Data Analyst with 5+ years of experience in Power BI, SQL, Python, Microsoft Fabric, Excel, Azure Data Factory, and data modeling. I enjoy building end-to-end analytics solutions that transform raw data into actionable business insights through interactive dashboards, ETL pipelines, and scalable data models.
 
 ## 🚀 Here's what you'll find here:
 
