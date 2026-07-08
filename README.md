@@ -40,5 +40,5 @@ If you're here to explore, collaborate, or just follow my journey — I'm really
 
 ## 🤝 Let's Connect!
 
-- 💼 LinkedIn: [https://www.linkedin.com/in/your-link/](https://www.linkedin.com/in/rakesh-chavan-1b3ab9136/)
+- 💼 LinkedIn: [https://www.linkedin.com/in/rakesh-chavan-data/)
 - 💻 Portfolio: [https://your-portfolio-link.com](https://sites.google.com/view/rakeshchavan09/home)
